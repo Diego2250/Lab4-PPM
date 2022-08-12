@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_update_bar">5dp</dimen>
+    <dimen name="margin_left_update">25dp</dimen>
+    <dimen name="margin_update_ic">10dp</dimen>
+    <dimen name="margin_top_dia">12dp</dimen>
+    <dimen name="margin_top_cumple">12dp</dimen>
+    <dimen name="margin_end_cumple">72dp</dimen>
+    <dimen name="margin_top">10dp</dimen>
+    <dimen name="margin_start_restaurante">20dp</dimen>
+    <dimen name="margin_top_restaurante">20dp</dimen>
+    <dimen name="margin_iniciar">15dp</dimen>
+    <dimen name="padding_iniciar">50dp</dimen>
+    <dimen name="padding_terminar">50dp</dimen>
+    <dimen name="margin_turn_signal">20dp</dimen>
+    <dimen name="size_turn_signal">15dp</dimen>
+    <dimen name="margin_izquierda">15dp</dimen>
+    <dimen name="heigth_layout_2">180dp</dimen>
+    <dimen name="margin_layout_vertical">50dp</dimen>
+</resources>

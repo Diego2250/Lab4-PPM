@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab4-PPM</string>
+    <string name="text_update">Actualización disponible</string>
+    <string name="button_descargar">Descargar</string>
+    <string name="text_dia">Martes</string>
+    <string name="text_cumple">25 de octubre</string>
+    <string name="button_terminar_jornada">Terminar jornada</string>
+    <string name="text_restaurante">Sushiito</string>
+    <string name="text_direccion">22 calle 9-33, Zona 16, C.C. Paseo Cayalá, local J3, 105</string>
+    <string name="text_horario">12:00PM 12:00AM</string>
+    <string name="button_iniciar">Iniciar</string>
+    <string name="button_detalles">Detalles</string>
+</resources>
