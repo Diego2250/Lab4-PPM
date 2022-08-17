@@ -45,6 +45,7 @@
             android:padding="0dp"
             android:text="@string/button_descargar"
             android:textAllCaps="false"
+            android:focusable="true"
             android:textColor="@color/bc_update_ic" />
 
     </LinearLayout>
@@ -169,10 +170,13 @@
             app:layout_constraintStart_toStartOf="@+id/guideline" />
 
         <ImageView
+            android:id="@+id/directions"
             android:layout_width="45dp"
             android:layout_height="40dp"
             android:layout_margin="@dimen/margin_turn_signal"
             android:background="@drawable/bgsignal"
+            android:clickable="true"
+            android:focusable="true"
 
 
             android:src="@drawable/ic_turn"

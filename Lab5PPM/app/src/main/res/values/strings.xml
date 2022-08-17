@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Lab4-PPM</string>
+    <string name="app_name">Lab5-PPM</string>
     <string name="text_update">Actualización disponible</string>
     <string name="button_descargar">Descargar</string>
     <string name="text_dia">Martes</string>
